@@ -2,6 +2,8 @@
 
 A sophisticated, bidirectional Note Management System built with **React 19**, featuring **Clerk** authentication and **AI-driven** content optimization.
 
+## 🔗 [Live Demo](https://tuhamiv.github.io/moswadda-ai/)
+
 ## 🧠 Engineering Highlights
 
 ### 1. Intelligent Bidirectional UI (i18n)
