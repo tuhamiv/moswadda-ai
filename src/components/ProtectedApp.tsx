@@ -14,7 +14,7 @@ function ProtectedApp({children}: {children: ReactNode}) {
     )
 
     if (!isSignedIn) return (
-        <Navigate to="/login" replace />
+        <Navigate to="login" replace />
     )
 
     return (
