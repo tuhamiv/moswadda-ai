@@ -15,7 +15,7 @@ import ClerkWrapper from "@/components/ClerkWrapper.tsx";
 
 export default function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/moswadda-ai">
             <LanguageProvider>
                 <IntlWrapper>
                     <ClerkWrapper>
